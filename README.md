@@ -5,6 +5,7 @@ Tries to predict if a stock will rise or fall with a certain percentage through 
 ## Requirements
 * Python 3.*
 * Tensorflow **1.3**
+* Pandas
 * tqdm
 * Numpy
 * Six
